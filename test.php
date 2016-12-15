@@ -25,7 +25,7 @@
 <title>test</title>
 <link href="style/monitor2.css" rel="stylesheet">
 <link href="style/+.css" rel="stylesheet">
-</head>
+ddddd</head>
 <body>
 <div id="space"><br></div>
 <div id="container">
