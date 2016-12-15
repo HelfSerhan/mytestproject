@@ -22,7 +22,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>++</title>
+<title>test</title>
 <link href="style/monitor2.css" rel="stylesheet">
 <link href="style/+.css" rel="stylesheet">
 </head>
